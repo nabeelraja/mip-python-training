@@ -1,0 +1,13 @@
+# Unit Test
+pytest
+pytest-allure-adaptor
+nose
+
+# Code Quality
+pylint_runner
+
+# Deploy
+twine
+
+# Versioning
+bumpversion
