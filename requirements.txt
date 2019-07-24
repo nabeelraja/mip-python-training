@@ -3,3 +3,7 @@
 
 # external requirements
 pyyaml
+pandas
+Flask
+uwsgi
+pyodbc
